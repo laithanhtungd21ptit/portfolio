@@ -58,7 +58,7 @@ button:hover {
 #overlay.show {
     display: initial;
 }
-/* == header== */
+
 header {
     position: absolute;
     width: 100%;
